@@ -1,0 +1,1 @@
+# Open-Finder-with-a-Shortcut-Alfred-Workflow
