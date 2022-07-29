@@ -1,5 +1,5 @@
 # Open-Finder-with-a-Shortcut-Alfred-Workflow
-Open Finder with a simple command like "Windows + E" on Windows for open Explorer.
+Open Finder with a simple command like "Windows + E" on Windows to open Explorer.
 
 ---
 Abra o Finder com um simples comando, tipo "Windows + E" no Windows que abre o Explorer.
